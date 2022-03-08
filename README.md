@@ -1,5 +1,7 @@
 # In the shadows
 
+![Alt Text](https://media.giphy.com/media/riSyyLJC7oV0am2JRu/giphy.gif)<br />
+
 Проект представляет собой небольшой аналог https://www.shadowmatic.com/ для ПК версии.
 
 ## Элементы управления
